@@ -1,0 +1,14 @@
+.add-task-wrapper{
+    height: 100%;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;
+    padding-right: 0;
+}
+.add-task-wrapper span:nth-child(1) {
+    margin-right: 5px;
+}
+.add-task-input-wrapper {
+    flex-grow: 1;
+}
